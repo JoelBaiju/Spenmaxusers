@@ -114,9 +114,7 @@ function App() {
           </Route>
         </Route>
       </Routes>
-      <div>
-        <h1 className='text-red-800'>Helloooo</h1>
-      </div>
+    
     </>
   )
 }
