@@ -1,0 +1,15 @@
+@keyframes warningAnimation {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.warning-img {
+    animation: warningAnimation 1s ease infinite;
+}
