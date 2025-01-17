@@ -169,7 +169,7 @@ const CustomerDetailsModal = ({ isOpen, onClose, data, render, addPackage }) => 
                                     </div>
                                     <div className='col-span-2'>
                                         <p className='font-bold mb-2'>Address</p>
-                                        <p className='border p-2 hover:border-[#678B8D]'> {data.number}</p>
+                                        <p className='border p-2 hover:border-[#678B8D]'> {data.address}, {data.number}</p>
                                     </div>
                                     <div>
                                         <p className='font-bold mb-2'>District</p>

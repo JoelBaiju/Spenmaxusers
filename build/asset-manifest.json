@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1b94f182.css",
-    "main.js": "/static/js/main.e4283ade.js",
+    "main.js": "/static/js/main.77cd8616.js",
     "static/media/kriyado_profile_bg[1].png": "/static/media/kriyado_profile_bg[1].6605f6bac5f6d50b94fc.png",
     "static/media/Spenmax transparent 1.png": "/static/media/Spenmax transparent 1.647d6a65fa0db30a3b14.png",
     "static/media/fraction.cjs": "/static/media/fraction.7992481f3d8339b77604.cjs",
@@ -12,10 +12,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "static/media/index.cjs": "/static/media/index.f6d03137e8c9dd0de04c.cjs",
     "main.1b94f182.css.map": "/static/css/main.1b94f182.css.map",
-    "main.e4283ade.js.map": "/static/js/main.e4283ade.js.map"
+    "main.77cd8616.js.map": "/static/js/main.77cd8616.js.map"
   },
   "entrypoints": [
     "static/css/main.1b94f182.css",
-    "static/js/main.e4283ade.js"
+    "static/js/main.77cd8616.js"
   ]
 }

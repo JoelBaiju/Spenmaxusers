@@ -159,6 +159,7 @@ const CreateCoustmer = () => {
                 toast.success('Customer successfully created');
             }
         } catch (error) {
+            toast.error('Customer already exists');
             console.error('Fetching createCustmor failed:', error);
             setIsLoading(false)
             const errorMessages = getErrorMessage(error)
